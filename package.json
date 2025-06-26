@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/HasanAlif/A_Chat_Engine/issues"
   },
-  "homepage": "https://github.com/HasanAlif/A_Chat_Engine#readme"
+  "homepage": "https://github.com/HasanAlif/A_Chat_Engine#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
 }
